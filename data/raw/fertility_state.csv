@@ -1,0 +1,1001 @@
+date,state,age_group,fertility_rate
+2001-01-01,Kelantan,45-49,10.0
+2002-01-01,Kelantan,45-49,9.0
+2003-01-01,Kelantan,45-49,8.0
+2004-01-01,Kelantan,45-49,7.0
+2005-01-01,Kelantan,45-49,7.0
+2006-01-01,Kelantan,45-49,6.0
+2007-01-01,Kelantan,45-49,6.0
+2008-01-01,Kelantan,45-49,5.0
+2009-01-01,Kelantan,45-49,5.0
+2010-01-01,Kelantan,45-49,5.0
+2011-01-01,Kelantan,45-49,4.0
+2012-01-01,Kelantan,45-49,4.0
+2013-01-01,Kelantan,45-49,4.0
+2014-01-01,Kelantan,45-49,4.0
+2015-01-01,Kelantan,45-49,4.0
+2016-01-01,Kelantan,45-49,3.0
+2017-01-01,Kelantan,45-49,3.0
+2018-01-01,Kelantan,45-49,3.13
+2019-01-01,Kelantan,45-49,2.99
+2020-01-01,Kelantan,45-49,2.96
+2021-01-01,Kelantan,45-49,3.32
+2022-01-01,Kelantan,45-49,2.0
+2023-01-01,Kelantan,45-49,2.0
+2001-01-01,Melaka,45-49,2.0
+2002-01-01,Melaka,45-49,2.0
+2003-01-01,Melaka,45-49,2.0
+2004-01-01,Melaka,45-49,1.0
+2005-01-01,Melaka,45-49,2.0
+2006-01-01,Melaka,45-49,1.0
+2007-01-01,Melaka,45-49,2.0
+2008-01-01,Melaka,45-49,1.0
+2009-01-01,Melaka,45-49,1.0
+2010-01-01,Melaka,45-49,1.0
+2011-01-01,Melaka,45-49,1.0
+2012-01-01,Melaka,45-49,1.0
+2013-01-01,Melaka,45-49,1.0
+2014-01-01,Melaka,45-49,1.0
+2015-01-01,Melaka,45-49,1.0
+2016-01-01,Melaka,45-49,1.0
+2017-01-01,Melaka,45-49,1.0
+2018-01-01,Melaka,45-49,1.26
+2019-01-01,Melaka,45-49,1.31
+2020-01-01,Melaka,45-49,0.76
+2021-01-01,Melaka,45-49,0.67
+2022-01-01,Melaka,45-49,1.0
+2023-01-01,Melaka,45-49,1.0
+2001-01-01,Negeri Sembilan,45-49,2.0
+2002-01-01,Negeri Sembilan,45-49,2.0
+2003-01-01,Negeri Sembilan,45-49,2.0
+2004-01-01,Negeri Sembilan,45-49,1.0
+2005-01-01,Negeri Sembilan,45-49,1.0
+2006-01-01,Negeri Sembilan,45-49,1.0
+2007-01-01,Negeri Sembilan,45-49,1.0
+2008-01-01,Negeri Sembilan,45-49,1.0
+2009-01-01,Negeri Sembilan,45-49,1.0
+2010-01-01,Negeri Sembilan,45-49,1.0
+2011-01-01,Negeri Sembilan,45-49,1.0
+2012-01-01,Negeri Sembilan,45-49,1.0
+2013-01-01,Negeri Sembilan,45-49,1.0
+2014-01-01,Negeri Sembilan,45-49,1.0
+2015-01-01,Negeri Sembilan,45-49,1.0
+2016-01-01,Negeri Sembilan,45-49,1.0
+2017-01-01,Negeri Sembilan,45-49,1.0
+2018-01-01,Negeri Sembilan,45-49,1.34
+2019-01-01,Negeri Sembilan,45-49,1.14
+2020-01-01,Negeri Sembilan,45-49,1.2
+2021-01-01,Negeri Sembilan,45-49,0.97
+2022-01-01,Negeri Sembilan,45-49,1.0
+2023-01-01,Negeri Sembilan,45-49,1.0
+2001-01-01,Pahang,45-49,4.0
+2002-01-01,Pahang,45-49,4.0
+2003-01-01,Pahang,45-49,4.0
+2004-01-01,Pahang,45-49,3.0
+2005-01-01,Pahang,45-49,3.0
+2006-01-01,Pahang,45-49,3.0
+2007-01-01,Pahang,45-49,2.0
+2008-01-01,Pahang,45-49,2.0
+2009-01-01,Pahang,45-49,2.0
+2010-01-01,Pahang,45-49,3.0
+2011-01-01,Pahang,45-49,2.0
+2012-01-01,Pahang,45-49,2.0
+2013-01-01,Pahang,45-49,2.0
+2014-01-01,Pahang,45-49,2.0
+2015-01-01,Pahang,45-49,2.0
+2016-01-01,Pahang,45-49,2.0
+2017-01-01,Pahang,45-49,1.0
+2018-01-01,Pahang,45-49,1.87
+2019-01-01,Pahang,45-49,1.74
+2020-01-01,Pahang,45-49,1.85
+2021-01-01,Pahang,45-49,1.54
+2022-01-01,Pahang,45-49,2.0
+2023-01-01,Pahang,45-49,1.0
+2001-01-01,Perak,45-49,3.0
+2002-01-01,Perak,45-49,2.0
+2003-01-01,Perak,45-49,2.0
+2004-01-01,Perak,45-49,2.0
+2005-01-01,Perak,45-49,2.0
+2006-01-01,Perak,45-49,2.0
+2007-01-01,Perak,45-49,2.0
+2008-01-01,Perak,45-49,1.0
+2009-01-01,Perak,45-49,1.0
+2010-01-01,Perak,45-49,1.0
+2011-01-01,Perak,45-49,1.0
+2012-01-01,Perak,45-49,1.0
+2013-01-01,Perak,45-49,1.0
+2014-01-01,Perak,45-49,1.0
+2015-01-01,Perak,45-49,1.0
+2016-01-01,Perak,45-49,1.0
+2017-01-01,Perak,45-49,1.0
+2018-01-01,Perak,45-49,1.01
+2019-01-01,Perak,45-49,1.41
+2020-01-01,Perak,45-49,1.17
+2021-01-01,Perak,45-49,1.0
+2022-01-01,Perak,45-49,1.0
+2023-01-01,Perak,45-49,1.0
+2001-01-01,Perlis,45-49,3.0
+2002-01-01,Perlis,45-49,2.0
+2003-01-01,Perlis,45-49,3.0
+2004-01-01,Perlis,45-49,2.0
+2005-01-01,Perlis,45-49,2.0
+2006-01-01,Perlis,45-49,3.0
+2007-01-01,Perlis,45-49,2.0
+2008-01-01,Perlis,45-49,2.0
+2009-01-01,Perlis,45-49,1.0
+2010-01-01,Perlis,45-49,2.0
+2011-01-01,Perlis,45-49,1.0
+2012-01-01,Perlis,45-49,2.0
+2013-01-01,Perlis,45-49,1.0
+2014-01-01,Perlis,45-49,1.0
+2015-01-01,Perlis,45-49,2.0
+2016-01-01,Perlis,45-49,1.0
+2017-01-01,Perlis,45-49,1.0
+2018-01-01,Perlis,45-49,2.08
+2019-01-01,Perlis,45-49,1.17
+2020-01-01,Perlis,45-49,2.23
+2021-01-01,Perlis,45-49,1.24
+2022-01-01,Perlis,45-49,0.0
+2023-01-01,Perlis,45-49,1.0
+2001-01-01,Pulau Pinang,45-49,1.0
+2002-01-01,Pulau Pinang,45-49,1.0
+2003-01-01,Pulau Pinang,45-49,1.0
+2004-01-01,Pulau Pinang,45-49,1.0
+2005-01-01,Pulau Pinang,45-49,1.0
+2006-01-01,Pulau Pinang,45-49,1.0
+2007-01-01,Pulau Pinang,45-49,1.0
+2008-01-01,Pulau Pinang,45-49,1.0
+2009-01-01,Pulau Pinang,45-49,1.0
+2010-01-01,Pulau Pinang,45-49,1.0
+2011-01-01,Pulau Pinang,45-49,1.0
+2012-01-01,Pulau Pinang,45-49,1.0
+2013-01-01,Pulau Pinang,45-49,1.0
+2014-01-01,Pulau Pinang,45-49,1.0
+2015-01-01,Pulau Pinang,45-49,1.0
+2016-01-01,Pulau Pinang,45-49,1.0
+2017-01-01,Pulau Pinang,45-49,1.0
+2018-01-01,Pulau Pinang,45-49,1.04
+2019-01-01,Pulau Pinang,45-49,0.61
+2020-01-01,Pulau Pinang,45-49,0.93
+2021-01-01,Pulau Pinang,45-49,1.01
+2022-01-01,Pulau Pinang,45-49,1.0
+2023-01-01,Pulau Pinang,45-49,1.0
+2001-01-01,Sabah,45-49,10.14
+2002-01-01,Sabah,45-49,8.38
+2003-01-01,Sabah,45-49,9.11
+2004-01-01,Sabah,45-49,9.33
+2005-01-01,Sabah,45-49,9.69
+2006-01-01,Sabah,45-49,6.43
+2007-01-01,Sabah,45-49,6.15
+2008-01-01,Sabah,45-49,5.96
+2009-01-01,Sabah,45-49,5.36
+2010-01-01,Sabah,45-49,5.56
+2011-01-01,Sabah,45-49,5.19
+2012-01-01,Sabah,45-49,6.12
+2013-01-01,Sabah,45-49,5.36
+2014-01-01,Sabah,45-49,4.0
+2015-01-01,Sabah,45-49,4.0
+2016-01-01,Sabah,45-49,4.0
+2017-01-01,Sabah,45-49,3.0
+2018-01-01,Sabah,45-49,3.48
+2019-01-01,Sabah,45-49,3.14
+2020-01-01,Sabah,45-49,2.79
+2021-01-01,Sabah,45-49,2.67
+2022-01-01,Sabah,45-49,3.0
+2023-01-01,Sabah,45-49,3.0
+2001-01-01,Sarawak,45-49,3.0
+2002-01-01,Sarawak,45-49,3.0
+2003-01-01,Sarawak,45-49,3.0
+2004-01-01,Sarawak,45-49,2.0
+2005-01-01,Sarawak,45-49,2.0
+2006-01-01,Sarawak,45-49,2.0
+2007-01-01,Sarawak,45-49,2.0
+2008-01-01,Sarawak,45-49,2.0
+2009-01-01,Sarawak,45-49,2.0
+2010-01-01,Sarawak,45-49,2.0
+2011-01-01,Sarawak,45-49,2.0
+2012-01-01,Sarawak,45-49,2.0
+2013-01-01,Sarawak,45-49,1.0
+2014-01-01,Sarawak,45-49,2.0
+2015-01-01,Sarawak,45-49,1.0
+2016-01-01,Sarawak,45-49,1.0
+2017-01-01,Sarawak,45-49,1.0
+2018-01-01,Sarawak,45-49,1.11
+2019-01-01,Sarawak,45-49,1.11
+2020-01-01,Sarawak,45-49,1.19
+2021-01-01,Sarawak,45-49,0.98
+2022-01-01,Sarawak,45-49,1.0
+2023-01-01,Sarawak,45-49,1.0
+2001-01-01,Selangor,45-49,3.0
+2002-01-01,Selangor,45-49,2.0
+2003-01-01,Selangor,45-49,2.0
+2004-01-01,Selangor,45-49,3.0
+2005-01-01,Selangor,45-49,2.0
+2006-01-01,Selangor,45-49,2.0
+2007-01-01,Selangor,45-49,2.0
+2008-01-01,Selangor,45-49,2.0
+2009-01-01,Selangor,45-49,2.0
+2010-01-01,Selangor,45-49,2.0
+2011-01-01,Selangor,45-49,2.0
+2012-01-01,Selangor,45-49,2.0
+2013-01-01,Selangor,45-49,2.0
+2014-01-01,Selangor,45-49,1.0
+2015-01-01,Selangor,45-49,2.0
+2016-01-01,Selangor,45-49,1.0
+2017-01-01,Selangor,45-49,1.0
+2018-01-01,Selangor,45-49,1.24
+2019-01-01,Selangor,45-49,1.47
+2020-01-01,Selangor,45-49,1.46
+2021-01-01,Selangor,45-49,1.32
+2022-01-01,Selangor,45-49,1.0
+2023-01-01,Selangor,45-49,1.0
+2001-01-01,Terengganu,45-49,9.0
+2002-01-01,Terengganu,45-49,7.0
+2003-01-01,Terengganu,45-49,8.0
+2004-01-01,Terengganu,45-49,7.0
+2005-01-01,Terengganu,45-49,5.0
+2006-01-01,Terengganu,45-49,6.0
+2007-01-01,Terengganu,45-49,4.0
+2008-01-01,Terengganu,45-49,5.0
+2009-01-01,Terengganu,45-49,5.0
+2010-01-01,Terengganu,45-49,4.0
+2011-01-01,Terengganu,45-49,4.0
+2012-01-01,Terengganu,45-49,4.0
+2013-01-01,Terengganu,45-49,4.0
+2014-01-01,Terengganu,45-49,3.0
+2015-01-01,Terengganu,45-49,3.0
+2016-01-01,Terengganu,45-49,4.0
+2017-01-01,Terengganu,45-49,3.0
+2018-01-01,Terengganu,45-49,3.29
+2019-01-01,Terengganu,45-49,2.85
+2020-01-01,Terengganu,45-49,2.92
+2021-01-01,Terengganu,45-49,3.28
+2022-01-01,Terengganu,45-49,3.0
+2023-01-01,Terengganu,45-49,2.0
+2001-01-01,W.P. Kuala Lumpur,45-49,3.0
+2002-01-01,W.P. Kuala Lumpur,45-49,2.0
+2003-01-01,W.P. Kuala Lumpur,45-49,2.0
+2004-01-01,W.P. Kuala Lumpur,45-49,3.0
+2005-01-01,W.P. Kuala Lumpur,45-49,2.0
+2006-01-01,W.P. Kuala Lumpur,45-49,2.0
+2007-01-01,W.P. Kuala Lumpur,45-49,2.0
+2008-01-01,W.P. Kuala Lumpur,45-49,2.0
+2009-01-01,W.P. Kuala Lumpur,45-49,2.0
+2010-01-01,W.P. Kuala Lumpur,45-49,2.0
+2011-01-01,W.P. Kuala Lumpur,45-49,1.0
+2012-01-01,W.P. Kuala Lumpur,45-49,1.0
+2013-01-01,W.P. Kuala Lumpur,45-49,1.0
+2014-01-01,W.P. Kuala Lumpur,45-49,1.0
+2015-01-01,W.P. Kuala Lumpur,45-49,1.0
+2016-01-01,W.P. Kuala Lumpur,45-49,1.0
+2017-01-01,W.P. Kuala Lumpur,45-49,1.0
+2018-01-01,W.P. Kuala Lumpur,45-49,1.08
+2019-01-01,W.P. Kuala Lumpur,45-49,1.61
+2020-01-01,W.P. Kuala Lumpur,45-49,1.36
+2021-01-01,W.P. Kuala Lumpur,45-49,1.0
+2022-01-01,W.P. Kuala Lumpur,45-49,1.0
+2023-01-01,W.P. Kuala Lumpur,45-49,1.0
+2001-01-01,W.P. Labuan,45-49,7.0
+2002-01-01,W.P. Labuan,45-49,3.0
+2003-01-01,W.P. Labuan,45-49,5.0
+2004-01-01,W.P. Labuan,45-49,3.0
+2005-01-01,W.P. Labuan,45-49,2.0
+2006-01-01,W.P. Labuan,45-49,5.0
+2007-01-01,W.P. Labuan,45-49,1.0
+2008-01-01,W.P. Labuan,45-49,4.0
+2009-01-01,W.P. Labuan,45-49,4.0
+2010-01-01,W.P. Labuan,45-49,4.0
+2011-01-01,W.P. Labuan,45-49,3.0
+2012-01-01,W.P. Labuan,45-49,4.0
+2013-01-01,W.P. Labuan,45-49,4.0
+2014-01-01,W.P. Labuan,45-49,1.0
+2015-01-01,W.P. Labuan,45-49,2.0
+2016-01-01,W.P. Labuan,45-49,2.0
+2017-01-01,W.P. Labuan,45-49,2.0
+2018-01-01,W.P. Labuan,45-49,1.09
+2019-01-01,W.P. Labuan,45-49,2.85
+2020-01-01,W.P. Labuan,45-49,2.49
+2021-01-01,W.P. Labuan,45-49,1.58
+2022-01-01,W.P. Labuan,45-49,1.59
+2023-01-01,W.P. Labuan,45-49,1.0
+2010-01-01,W.P. Putrajaya,45-49,1.0
+2011-01-01,W.P. Putrajaya,45-49,2.0
+2012-01-01,W.P. Putrajaya,45-49,1.0
+2013-01-01,W.P. Putrajaya,45-49,2.0
+2014-01-01,W.P. Putrajaya,45-49,4.0
+2015-01-01,W.P. Putrajaya,45-49,1.0
+2016-01-01,W.P. Putrajaya,45-49,2.0
+2017-01-01,W.P. Putrajaya,45-49,1.0
+2018-01-01,W.P. Putrajaya,45-49,0.0
+2019-01-01,W.P. Putrajaya,45-49,0.45
+2020-01-01,W.P. Putrajaya,45-49,1.91
+2021-01-01,W.P. Putrajaya,45-49,1.57
+2022-01-01,W.P. Putrajaya,45-49,2.0
+2023-01-01,W.P. Putrajaya,45-49,1.0
+2001-01-01,Johor,tfr,2.78
+2002-01-01,Johor,tfr,2.66
+2003-01-01,Johor,tfr,2.55
+2004-01-01,Johor,tfr,2.47
+2005-01-01,Johor,tfr,2.39
+2006-01-01,Johor,tfr,2.36
+2007-01-01,Johor,tfr,2.35
+2008-01-01,Johor,tfr,2.3
+2009-01-01,Johor,tfr,2.25
+2010-01-01,Johor,tfr,2.13
+2011-01-01,Johor,tfr,2.17
+2012-01-01,Johor,tfr,2.23
+2013-01-01,Johor,tfr,2.11
+2014-01-01,Johor,tfr,2.16
+2015-01-01,Johor,tfr,2.14
+2016-01-01,Johor,tfr,2.09
+2017-01-01,Johor,tfr,2.12
+2018-01-01,Johor,tfr,2.09
+2019-01-01,Johor,tfr,2.05
+2020-01-01,Johor,tfr,1.94
+2021-01-01,Johor,tfr,1.66
+2022-01-01,Johor,tfr,1.59
+2023-01-01,Johor,tfr,1.82
+2001-01-01,Kedah,tfr,3.14
+2002-01-01,Kedah,tfr,2.97
+2003-01-01,Kedah,tfr,2.82
+2004-01-01,Kedah,tfr,2.75
+2005-01-01,Kedah,tfr,2.65
+2006-01-01,Kedah,tfr,2.58
+2007-01-01,Kedah,tfr,2.56
+2008-01-01,Kedah,tfr,2.63
+2009-01-01,Kedah,tfr,2.66
+2010-01-01,Kedah,tfr,2.58
+2011-01-01,Kedah,tfr,2.61
+2012-01-01,Kedah,tfr,2.6
+2013-01-01,Kedah,tfr,2.42
+2014-01-01,Kedah,tfr,2.47
+2015-01-01,Kedah,tfr,2.41
+2016-01-01,Kedah,tfr,2.31
+2017-01-01,Kedah,tfr,2.31
+2018-01-01,Kedah,tfr,2.2
+2019-01-01,Kedah,tfr,2.09
+2020-01-01,Kedah,tfr,2.03
+2021-01-01,Kedah,tfr,2.03
+2022-01-01,Kedah,tfr,1.83
+2023-01-01,Kedah,tfr,1.98
+2001-01-01,Kelantan,tfr,4.87
+2002-01-01,Kelantan,tfr,4.59
+2003-01-01,Kelantan,tfr,4.24
+2004-01-01,Kelantan,tfr,4.04
+2005-01-01,Kelantan,tfr,3.8
+2006-01-01,Kelantan,tfr,3.64
+2007-01-01,Kelantan,tfr,3.57
+2008-01-01,Kelantan,tfr,3.61
+2009-01-01,Kelantan,tfr,3.66
+2010-01-01,Kelantan,tfr,3.68
+2011-01-01,Kelantan,tfr,3.77
+2012-01-01,Kelantan,tfr,3.6
+2013-01-01,Kelantan,tfr,3.44
+2014-01-01,Kelantan,tfr,3.57
+2015-01-01,Kelantan,tfr,3.42
+2016-01-01,Kelantan,tfr,3.23
+2017-01-01,Kelantan,tfr,3.16
+2018-01-01,Kelantan,tfr,3.0
+2019-01-01,Kelantan,tfr,2.77
+2020-01-01,Kelantan,tfr,2.66
+2021-01-01,Kelantan,tfr,2.83
+2022-01-01,Kelantan,tfr,2.65
+2023-01-01,Kelantan,tfr,2.72
+2001-01-01,Melaka,tfr,2.94
+2002-01-01,Melaka,tfr,2.77
+2003-01-01,Melaka,tfr,2.72
+2004-01-01,Melaka,tfr,2.6
+2005-01-01,Melaka,tfr,2.5
+2006-01-01,Melaka,tfr,2.36
+2007-01-01,Melaka,tfr,2.4
+2008-01-01,Melaka,tfr,2.36
+2009-01-01,Melaka,tfr,2.26
+2010-01-01,Melaka,tfr,2.12
+2011-01-01,Melaka,tfr,2.23
+2012-01-01,Melaka,tfr,2.23
+2013-01-01,Melaka,tfr,2.06
+2014-01-01,Melaka,tfr,2.13
+2015-01-01,Melaka,tfr,2.05
+2016-01-01,Melaka,tfr,1.96
+2017-01-01,Melaka,tfr,1.9
+2018-01-01,Melaka,tfr,1.85
+2019-01-01,Melaka,tfr,1.78
+2020-01-01,Melaka,tfr,1.73
+2021-01-01,Melaka,tfr,1.67
+2022-01-01,Melaka,tfr,1.66
+2023-01-01,Melaka,tfr,1.67
+2001-01-01,Negeri Sembilan,tfr,2.8
+2002-01-01,Negeri Sembilan,tfr,2.76
+2003-01-01,Negeri Sembilan,tfr,2.65
+2004-01-01,Negeri Sembilan,tfr,2.58
+2005-01-01,Negeri Sembilan,tfr,2.49
+2006-01-01,Negeri Sembilan,tfr,2.41
+2007-01-01,Negeri Sembilan,tfr,2.44
+2008-01-01,Negeri Sembilan,tfr,2.42
+2009-01-01,Negeri Sembilan,tfr,2.38
+2010-01-01,Negeri Sembilan,tfr,2.27
+2011-01-01,Negeri Sembilan,tfr,2.3
+2012-01-01,Negeri Sembilan,tfr,2.29
+2013-01-01,Negeri Sembilan,tfr,2.2
+2014-01-01,Negeri Sembilan,tfr,2.31
+2015-01-01,Negeri Sembilan,tfr,2.25
+2016-01-01,Negeri Sembilan,tfr,2.17
+2017-01-01,Negeri Sembilan,tfr,2.13
+2018-01-01,Negeri Sembilan,tfr,2.12
+2019-01-01,Negeri Sembilan,tfr,2.0
+2020-01-01,Negeri Sembilan,tfr,1.96
+2021-01-01,Negeri Sembilan,tfr,1.8
+2022-01-01,Negeri Sembilan,tfr,1.72
+2023-01-01,Negeri Sembilan,tfr,1.76
+2001-01-01,Pahang,tfr,3.14
+2002-01-01,Pahang,tfr,3.0
+2003-01-01,Pahang,tfr,2.88
+2004-01-01,Pahang,tfr,2.8
+2005-01-01,Pahang,tfr,2.72
+2006-01-01,Pahang,tfr,2.56
+2007-01-01,Pahang,tfr,2.52
+2008-01-01,Pahang,tfr,2.53
+2009-01-01,Pahang,tfr,2.51
+2010-01-01,Pahang,tfr,2.47
+2011-01-01,Pahang,tfr,2.5
+2012-01-01,Pahang,tfr,2.48
+2013-01-01,Pahang,tfr,2.38
+2014-01-01,Pahang,tfr,2.49
+2015-01-01,Pahang,tfr,2.39
+2016-01-01,Pahang,tfr,2.29
+2017-01-01,Pahang,tfr,2.24
+2018-01-01,Pahang,tfr,2.15
+2019-01-01,Pahang,tfr,2.01
+2020-01-01,Pahang,tfr,1.94
+2021-01-01,Pahang,tfr,2.18
+2022-01-01,Pahang,tfr,2.1
+2023-01-01,Pahang,tfr,2.14
+2001-01-01,Perak,tfr,3.13
+2002-01-01,Perak,tfr,3.0
+2003-01-01,Perak,tfr,2.79
+2004-01-01,Perak,tfr,2.7
+2005-01-01,Perak,tfr,2.56
+2006-01-01,Perak,tfr,2.49
+2007-01-01,Perak,tfr,2.44
+2008-01-01,Perak,tfr,2.45
+2009-01-01,Perak,tfr,2.44
+2010-01-01,Perak,tfr,2.34
+2011-01-01,Perak,tfr,2.39
+2012-01-01,Perak,tfr,2.35
+2013-01-01,Perak,tfr,2.16
+2014-01-01,Perak,tfr,2.19
+2015-01-01,Perak,tfr,2.13
+2016-01-01,Perak,tfr,2.04
+2017-01-01,Perak,tfr,1.95
+2018-01-01,Perak,tfr,1.85
+2019-01-01,Perak,tfr,1.76
+2020-01-01,Perak,tfr,1.66
+2021-01-01,Perak,tfr,1.81
+2022-01-01,Perak,tfr,1.72
+2023-01-01,Perak,tfr,1.76
+2001-01-01,Perlis,tfr,3.2
+2002-01-01,Perlis,tfr,3.08
+2003-01-01,Perlis,tfr,2.92
+2004-01-01,Perlis,tfr,2.81
+2005-01-01,Perlis,tfr,2.74
+2006-01-01,Perlis,tfr,2.67
+2007-01-01,Perlis,tfr,2.64
+2008-01-01,Perlis,tfr,2.74
+2009-01-01,Perlis,tfr,2.73
+2010-01-01,Perlis,tfr,2.6
+2011-01-01,Perlis,tfr,2.56
+2012-01-01,Perlis,tfr,2.48
+2013-01-01,Perlis,tfr,2.35
+2014-01-01,Perlis,tfr,2.54
+2015-01-01,Perlis,tfr,2.35
+2016-01-01,Perlis,tfr,2.28
+2017-01-01,Perlis,tfr,2.26
+2018-01-01,Perlis,tfr,2.17
+2019-01-01,Perlis,tfr,1.98
+2020-01-01,Perlis,tfr,1.96
+2021-01-01,Perlis,tfr,1.92
+2022-01-01,Perlis,tfr,1.68
+2023-01-01,Perlis,tfr,1.68
+2001-01-01,Pulau Pinang,tfr,2.06
+2002-01-01,Pulau Pinang,tfr,2.04
+2003-01-01,Pulau Pinang,tfr,1.92
+2004-01-01,Pulau Pinang,tfr,1.86
+2005-01-01,Pulau Pinang,tfr,1.8
+2006-01-01,Pulau Pinang,tfr,1.74
+2007-01-01,Pulau Pinang,tfr,1.75
+2008-01-01,Pulau Pinang,tfr,1.76
+2009-01-01,Pulau Pinang,tfr,1.71
+2010-01-01,Pulau Pinang,tfr,1.56
+2011-01-01,Pulau Pinang,tfr,1.62
+2012-01-01,Pulau Pinang,tfr,1.7
+2013-01-01,Pulau Pinang,tfr,1.48
+2014-01-01,Pulau Pinang,tfr,1.56
+2015-01-01,Pulau Pinang,tfr,1.49
+2016-01-01,Pulau Pinang,tfr,1.44
+2017-01-01,Pulau Pinang,tfr,1.39
+2018-01-01,Pulau Pinang,tfr,1.32
+2019-01-01,Pulau Pinang,tfr,1.28
+2020-01-01,Pulau Pinang,tfr,1.25
+2021-01-01,Pulau Pinang,tfr,1.23
+2022-01-01,Pulau Pinang,tfr,1.17
+2023-01-01,Pulau Pinang,tfr,1.27
+2001-01-01,Sabah,tfr,2.33
+2002-01-01,Sabah,tfr,2.14
+2003-01-01,Sabah,tfr,2.0
+2004-01-01,Sabah,tfr,2.02
+2005-01-01,Sabah,tfr,1.99
+2006-01-01,Sabah,tfr,1.87
+2007-01-01,Sabah,tfr,1.82
+2008-01-01,Sabah,tfr,1.87
+2009-01-01,Sabah,tfr,1.87
+2010-01-01,Sabah,tfr,1.84
+2011-01-01,Sabah,tfr,1.81
+2012-01-01,Sabah,tfr,1.84
+2013-01-01,Sabah,tfr,1.68
+2014-01-01,Sabah,tfr,1.66
+2015-01-01,Sabah,tfr,1.55
+2016-01-01,Sabah,tfr,1.44
+2017-01-01,Sabah,tfr,1.43
+2018-01-01,Sabah,tfr,1.43
+2019-01-01,Sabah,tfr,1.41
+2020-01-01,Sabah,tfr,1.33
+2021-01-01,Sabah,tfr,1.39
+2022-01-01,Sabah,tfr,1.44
+2023-01-01,Sabah,tfr,1.46
+2001-01-01,Sarawak,tfr,2.76
+2002-01-01,Sarawak,tfr,2.67
+2003-01-01,Sarawak,tfr,2.59
+2004-01-01,Sarawak,tfr,2.53
+2005-01-01,Sarawak,tfr,2.48
+2006-01-01,Sarawak,tfr,2.43
+2007-01-01,Sarawak,tfr,2.37
+2008-01-01,Sarawak,tfr,2.37
+2009-01-01,Sarawak,tfr,2.35
+2010-01-01,Sarawak,tfr,2.18
+2011-01-01,Sarawak,tfr,2.23
+2012-01-01,Sarawak,tfr,2.16
+2013-01-01,Sarawak,tfr,1.95
+2014-01-01,Sarawak,tfr,1.96
+2015-01-01,Sarawak,tfr,1.86
+2016-01-01,Sarawak,tfr,1.74
+2017-01-01,Sarawak,tfr,1.69
+2018-01-01,Sarawak,tfr,1.62
+2019-01-01,Sarawak,tfr,1.59
+2020-01-01,Sarawak,tfr,1.53
+2021-01-01,Sarawak,tfr,1.59
+2022-01-01,Sarawak,tfr,1.56
+2023-01-01,Sarawak,tfr,1.69
+2001-01-01,Selangor,tfr,2.24
+2002-01-01,Selangor,tfr,2.25
+2003-01-01,Selangor,tfr,2.22
+2004-01-01,Selangor,tfr,2.24
+2005-01-01,Selangor,tfr,2.16
+2006-01-01,Selangor,tfr,2.15
+2007-01-01,Selangor,tfr,2.12
+2008-01-01,Selangor,tfr,2.1
+2009-01-01,Selangor,tfr,2.06
+2010-01-01,Selangor,tfr,1.91
+2011-01-01,Selangor,tfr,1.96
+2012-01-01,Selangor,tfr,2.0
+2013-01-01,Selangor,tfr,1.82
+2014-01-01,Selangor,tfr,1.86
+2015-01-01,Selangor,tfr,1.81
+2016-01-01,Selangor,tfr,1.73
+2017-01-01,Selangor,tfr,1.7
+2018-01-01,Selangor,tfr,1.67
+2019-01-01,Selangor,tfr,1.57
+2020-01-01,Selangor,tfr,1.57
+2021-01-01,Selangor,tfr,1.54
+2022-01-01,Selangor,tfr,1.46
+2023-01-01,Selangor,tfr,1.59
+2001-01-01,Terengganu,tfr,4.16
+2002-01-01,Terengganu,tfr,3.93
+2003-01-01,Terengganu,tfr,3.68
+2004-01-01,Terengganu,tfr,3.64
+2005-01-01,Terengganu,tfr,3.46
+2006-01-01,Terengganu,tfr,3.38
+2007-01-01,Terengganu,tfr,3.38
+2008-01-01,Terengganu,tfr,3.44
+2009-01-01,Terengganu,tfr,3.46
+2010-01-01,Terengganu,tfr,3.48
+2011-01-01,Terengganu,tfr,3.46
+2012-01-01,Terengganu,tfr,3.49
+2013-01-01,Terengganu,tfr,3.32
+2014-01-01,Terengganu,tfr,3.38
+2015-01-01,Terengganu,tfr,3.36
+2016-01-01,Terengganu,tfr,3.24
+2017-01-01,Terengganu,tfr,3.16
+2018-01-01,Terengganu,tfr,3.11
+2019-01-01,Terengganu,tfr,2.9
+2020-01-01,Terengganu,tfr,2.86
+2021-01-01,Terengganu,tfr,3.04
+2022-01-01,Terengganu,tfr,2.88
+2023-01-01,Terengganu,tfr,2.91
+2001-01-01,W.P. Kuala Lumpur,tfr,1.99
+2002-01-01,W.P. Kuala Lumpur,tfr,1.87
+2003-01-01,W.P. Kuala Lumpur,tfr,1.8
+2004-01-01,W.P. Kuala Lumpur,tfr,1.77
+2005-01-01,W.P. Kuala Lumpur,tfr,1.65
+2006-01-01,W.P. Kuala Lumpur,tfr,1.67
+2007-01-01,W.P. Kuala Lumpur,tfr,1.7
+2008-01-01,W.P. Kuala Lumpur,tfr,1.68
+2009-01-01,W.P. Kuala Lumpur,tfr,1.68
+2010-01-01,W.P. Kuala Lumpur,tfr,1.55
+2011-01-01,W.P. Kuala Lumpur,tfr,1.58
+2012-01-01,W.P. Kuala Lumpur,tfr,1.65
+2013-01-01,W.P. Kuala Lumpur,tfr,1.52
+2014-01-01,W.P. Kuala Lumpur,tfr,1.6
+2015-01-01,W.P. Kuala Lumpur,tfr,1.5
+2016-01-01,W.P. Kuala Lumpur,tfr,1.51
+2017-01-01,W.P. Kuala Lumpur,tfr,1.46
+2018-01-01,W.P. Kuala Lumpur,tfr,1.47
+2019-01-01,W.P. Kuala Lumpur,tfr,1.68
+2020-01-01,W.P. Kuala Lumpur,tfr,1.49
+2021-01-01,W.P. Kuala Lumpur,tfr,1.21
+2022-01-01,W.P. Kuala Lumpur,tfr,1.19
+2023-01-01,W.P. Kuala Lumpur,tfr,1.31
+2001-01-01,W.P. Labuan,tfr,2.3
+2002-01-01,W.P. Labuan,tfr,2.26
+2003-01-01,W.P. Labuan,tfr,2.4
+2004-01-01,W.P. Labuan,tfr,2.26
+2005-01-01,W.P. Labuan,tfr,2.18
+2006-01-01,W.P. Labuan,tfr,2.24
+2007-01-01,W.P. Labuan,tfr,2.13
+2008-01-01,W.P. Labuan,tfr,2.21
+2009-01-01,W.P. Labuan,tfr,2.09
+2010-01-01,W.P. Labuan,tfr,1.98
+2011-01-01,W.P. Labuan,tfr,2.05
+2012-01-01,W.P. Labuan,tfr,2.04
+2013-01-01,W.P. Labuan,tfr,2.0
+2014-01-01,W.P. Labuan,tfr,2.05
+2015-01-01,W.P. Labuan,tfr,2.13
+2016-01-01,W.P. Labuan,tfr,1.89
+2017-01-01,W.P. Labuan,tfr,1.82
+2018-01-01,W.P. Labuan,tfr,1.8
+2019-01-01,W.P. Labuan,tfr,1.8
+2020-01-01,W.P. Labuan,tfr,1.88
+2021-01-01,W.P. Labuan,tfr,1.79
+2022-01-01,W.P. Labuan,tfr,1.6
+2023-01-01,W.P. Labuan,tfr,1.61
+2010-01-01,W.P. Putrajaya,tfr,2.4
+2011-01-01,W.P. Putrajaya,tfr,2.65
+2012-01-01,W.P. Putrajaya,tfr,2.87
+2013-01-01,W.P. Putrajaya,tfr,2.64
+2014-01-01,W.P. Putrajaya,tfr,2.85
+2015-01-01,W.P. Putrajaya,tfr,2.72
+2016-01-01,W.P. Putrajaya,tfr,2.56
+2017-01-01,W.P. Putrajaya,tfr,2.56
+2018-01-01,W.P. Putrajaya,tfr,2.63
+2019-01-01,W.P. Putrajaya,tfr,3.26
+2020-01-01,W.P. Putrajaya,tfr,2.78
+2021-01-01,W.P. Putrajaya,tfr,1.86
+2022-01-01,W.P. Putrajaya,tfr,1.76
+2023-01-01,W.P. Putrajaya,tfr,1.79
+2001-01-01,Johor,15-19,13.0
+2002-01-01,Johor,15-19,11.0
+2003-01-01,Johor,15-19,12.0
+2004-01-01,Johor,15-19,11.0
+2005-01-01,Johor,15-19,11.0
+2006-01-01,Johor,15-19,11.0
+2007-01-01,Johor,15-19,11.0
+2008-01-01,Johor,15-19,12.0
+2009-01-01,Johor,15-19,12.0
+2010-01-01,Johor,15-19,12.0
+2011-01-01,Johor,15-19,12.0
+2012-01-01,Johor,15-19,13.0
+2013-01-01,Johor,15-19,11.0
+2014-01-01,Johor,15-19,11.0
+2015-01-01,Johor,15-19,10.0
+2016-01-01,Johor,15-19,9.0
+2017-01-01,Johor,15-19,8.0
+2018-01-01,Johor,15-19,7.41
+2019-01-01,Johor,15-19,7.14
+2020-01-01,Johor,15-19,6.99
+2021-01-01,Johor,15-19,5.07
+2022-01-01,Johor,15-19,4.0
+2023-01-01,Johor,15-19,6.0
+2001-01-01,Kedah,15-19,11.0
+2002-01-01,Kedah,15-19,9.0
+2003-01-01,Kedah,15-19,9.0
+2004-01-01,Kedah,15-19,9.0
+2005-01-01,Kedah,15-19,9.0
+2006-01-01,Kedah,15-19,8.0
+2007-01-01,Kedah,15-19,9.0
+2008-01-01,Kedah,15-19,9.0
+2009-01-01,Kedah,15-19,10.0
+2010-01-01,Kedah,15-19,9.0
+2011-01-01,Kedah,15-19,9.0
+2012-01-01,Kedah,15-19,9.0
+2013-01-01,Kedah,15-19,8.0
+2014-01-01,Kedah,15-19,9.0
+2015-01-01,Kedah,15-19,8.0
+2016-01-01,Kedah,15-19,7.0
+2017-01-01,Kedah,15-19,7.0
+2018-01-01,Kedah,15-19,6.83
+2019-01-01,Kedah,15-19,6.97
+2020-01-01,Kedah,15-19,6.81
+2021-01-01,Kedah,15-19,6.06
+2022-01-01,Kedah,15-19,6.0
+2023-01-01,Kedah,15-19,9.0
+2001-01-01,Kelantan,15-19,15.0
+2002-01-01,Kelantan,15-19,14.0
+2003-01-01,Kelantan,15-19,14.0
+2004-01-01,Kelantan,15-19,14.0
+2005-01-01,Kelantan,15-19,14.0
+2006-01-01,Kelantan,15-19,13.0
+2007-01-01,Kelantan,15-19,15.0
+2008-01-01,Kelantan,15-19,16.0
+2009-01-01,Kelantan,15-19,17.0
+2010-01-01,Kelantan,15-19,16.0
+2011-01-01,Kelantan,15-19,16.0
+2012-01-01,Kelantan,15-19,15.0
+2013-01-01,Kelantan,15-19,14.0
+2014-01-01,Kelantan,15-19,14.0
+2015-01-01,Kelantan,15-19,13.0
+2016-01-01,Kelantan,15-19,12.0
+2017-01-01,Kelantan,15-19,10.0
+2018-01-01,Kelantan,15-19,8.75
+2019-01-01,Kelantan,15-19,8.77
+2020-01-01,Kelantan,15-19,8.19
+2021-01-01,Kelantan,15-19,6.41
+2022-01-01,Kelantan,15-19,6.0
+2023-01-01,Kelantan,15-19,7.0
+2001-01-01,Melaka,15-19,10.0
+2002-01-01,Melaka,15-19,8.0
+2003-01-01,Melaka,15-19,9.0
+2004-01-01,Melaka,15-19,8.0
+2005-01-01,Melaka,15-19,7.0
+2006-01-01,Melaka,15-19,7.0
+2007-01-01,Melaka,15-19,7.0
+2008-01-01,Melaka,15-19,7.0
+2009-01-01,Melaka,15-19,6.0
+2010-01-01,Melaka,15-19,6.0
+2011-01-01,Melaka,15-19,7.0
+2012-01-01,Melaka,15-19,8.0
+2013-01-01,Melaka,15-19,7.0
+2014-01-01,Melaka,15-19,7.0
+2015-01-01,Melaka,15-19,7.0
+2016-01-01,Melaka,15-19,6.0
+2017-01-01,Melaka,15-19,6.0
+2018-01-01,Melaka,15-19,5.49
+2019-01-01,Melaka,15-19,6.11
+2020-01-01,Melaka,15-19,4.99
+2021-01-01,Melaka,15-19,2.76
+2022-01-01,Melaka,15-19,3.0
+2023-01-01,Melaka,15-19,4.0
+2001-01-01,Negeri Sembilan,15-19,12.0
+2002-01-01,Negeri Sembilan,15-19,11.0
+2003-01-01,Negeri Sembilan,15-19,10.0
+2004-01-01,Negeri Sembilan,15-19,11.0
+2005-01-01,Negeri Sembilan,15-19,11.0
+2006-01-01,Negeri Sembilan,15-19,10.0
+2007-01-01,Negeri Sembilan,15-19,10.0
+2008-01-01,Negeri Sembilan,15-19,10.0
+2009-01-01,Negeri Sembilan,15-19,10.0
+2010-01-01,Negeri Sembilan,15-19,11.0
+2011-01-01,Negeri Sembilan,15-19,10.0
+2012-01-01,Negeri Sembilan,15-19,10.0
+2013-01-01,Negeri Sembilan,15-19,10.0
+2014-01-01,Negeri Sembilan,15-19,9.0
+2015-01-01,Negeri Sembilan,15-19,9.0
+2016-01-01,Negeri Sembilan,15-19,7.0
+2017-01-01,Negeri Sembilan,15-19,7.0
+2018-01-01,Negeri Sembilan,15-19,6.8
+2019-01-01,Negeri Sembilan,15-19,6.35
+2020-01-01,Negeri Sembilan,15-19,5.92
+2021-01-01,Negeri Sembilan,15-19,4.89
+2022-01-01,Negeri Sembilan,15-19,5.0
+2023-01-01,Negeri Sembilan,15-19,5.0
+2001-01-01,Pahang,15-19,15.0
+2002-01-01,Pahang,15-19,15.0
+2003-01-01,Pahang,15-19,14.0
+2004-01-01,Pahang,15-19,16.0
+2005-01-01,Pahang,15-19,15.0
+2006-01-01,Pahang,15-19,16.0
+2007-01-01,Pahang,15-19,16.0
+2008-01-01,Pahang,15-19,16.0
+2009-01-01,Pahang,15-19,16.0
+2010-01-01,Pahang,15-19,15.0
+2011-01-01,Pahang,15-19,18.0
+2012-01-01,Pahang,15-19,17.0
+2013-01-01,Pahang,15-19,16.0
+2014-01-01,Pahang,15-19,15.0
+2015-01-01,Pahang,15-19,15.0
+2016-01-01,Pahang,15-19,13.0
+2017-01-01,Pahang,15-19,12.0
+2018-01-01,Pahang,15-19,11.78
+2019-01-01,Pahang,15-19,11.08
+2020-01-01,Pahang,15-19,11.18
+2021-01-01,Pahang,15-19,8.54
+2022-01-01,Pahang,15-19,8.0
+2023-01-01,Pahang,15-19,9.0
+2001-01-01,Perak,15-19,12.0
+2002-01-01,Perak,15-19,12.0
+2003-01-01,Perak,15-19,11.0
+2004-01-01,Perak,15-19,11.0
+2005-01-01,Perak,15-19,10.0
+2006-01-01,Perak,15-19,10.0
+2007-01-01,Perak,15-19,9.0
+2008-01-01,Perak,15-19,10.0
+2009-01-01,Perak,15-19,10.0
+2010-01-01,Perak,15-19,9.0
+2011-01-01,Perak,15-19,9.0
+2012-01-01,Perak,15-19,9.0
+2013-01-01,Perak,15-19,8.0
+2014-01-01,Perak,15-19,8.0
+2015-01-01,Perak,15-19,8.0
+2016-01-01,Perak,15-19,7.0
+2017-01-01,Perak,15-19,6.0
+2018-01-01,Perak,15-19,6.16
+2019-01-01,Perak,15-19,5.72
+2020-01-01,Perak,15-19,4.94
+2021-01-01,Perak,15-19,4.47
+2022-01-01,Perak,15-19,4.0
+2023-01-01,Perak,15-19,5.0
+2001-01-01,Perlis,15-19,13.0
+2002-01-01,Perlis,15-19,13.0
+2003-01-01,Perlis,15-19,13.0
+2004-01-01,Perlis,15-19,11.0
+2005-01-01,Perlis,15-19,11.0
+2006-01-01,Perlis,15-19,11.0
+2007-01-01,Perlis,15-19,11.0
+2008-01-01,Perlis,15-19,10.0
+2009-01-01,Perlis,15-19,10.0
+2010-01-01,Perlis,15-19,9.0
+2011-01-01,Perlis,15-19,9.0
+2012-01-01,Perlis,15-19,11.0
+2013-01-01,Perlis,15-19,10.0
+2014-01-01,Perlis,15-19,11.0
+2015-01-01,Perlis,15-19,12.0
+2016-01-01,Perlis,15-19,12.0
+2017-01-01,Perlis,15-19,10.0
+2018-01-01,Perlis,15-19,9.58
+2019-01-01,Perlis,15-19,8.94
+2020-01-01,Perlis,15-19,8.05
+2021-01-01,Perlis,15-19,5.0
+2022-01-01,Perlis,15-19,5.0
+2023-01-01,Perlis,15-19,6.0
+2001-01-01,Pulau Pinang,15-19,8.0
+2002-01-01,Pulau Pinang,15-19,8.0
+2003-01-01,Pulau Pinang,15-19,7.0
+2004-01-01,Pulau Pinang,15-19,7.0
+2005-01-01,Pulau Pinang,15-19,6.0
+2006-01-01,Pulau Pinang,15-19,6.0
+2007-01-01,Pulau Pinang,15-19,6.0
+2008-01-01,Pulau Pinang,15-19,6.0
+2009-01-01,Pulau Pinang,15-19,6.0
+2010-01-01,Pulau Pinang,15-19,6.0
+2011-01-01,Pulau Pinang,15-19,6.0
+2012-01-01,Pulau Pinang,15-19,7.0
+2013-01-01,Pulau Pinang,15-19,6.0
+2014-01-01,Pulau Pinang,15-19,7.0
+2015-01-01,Pulau Pinang,15-19,7.0
+2016-01-01,Pulau Pinang,15-19,7.0
+2017-01-01,Pulau Pinang,15-19,6.0
+2018-01-01,Pulau Pinang,15-19,5.02
+2019-01-01,Pulau Pinang,15-19,4.78
+2020-01-01,Pulau Pinang,15-19,5.45
+2021-01-01,Pulau Pinang,15-19,4.23
+2022-01-01,Pulau Pinang,15-19,5.0
+2023-01-01,Pulau Pinang,15-19,8.0
+2001-01-01,Sabah,15-19,21.34
+2002-01-01,Sabah,15-19,18.65
+2003-01-01,Sabah,15-19,17.21
+2004-01-01,Sabah,15-19,17.97
+2005-01-01,Sabah,15-19,17.39
+2006-01-01,Sabah,15-19,17.12
+2007-01-01,Sabah,15-19,16.57
+2008-01-01,Sabah,15-19,18.58
+2009-01-01,Sabah,15-19,20.9
+2010-01-01,Sabah,15-19,21.79
+2011-01-01,Sabah,15-19,21.43
+2012-01-01,Sabah,15-19,22.12
+2013-01-01,Sabah,15-19,20.35
+2014-01-01,Sabah,15-19,20.0
+2015-01-01,Sabah,15-19,16.0
+2016-01-01,Sabah,15-19,13.0
+2017-01-01,Sabah,15-19,11.0
+2018-01-01,Sabah,15-19,11.09
+2019-01-01,Sabah,15-19,11.1
+2020-01-01,Sabah,15-19,9.34
+2021-01-01,Sabah,15-19,8.47
+2022-01-01,Sabah,15-19,9.0
+2023-01-01,Sabah,15-19,8.0
+2001-01-01,Sarawak,15-19,36.0
+2002-01-01,Sarawak,15-19,32.0
+2003-01-01,Sarawak,15-19,31.0
+2004-01-01,Sarawak,15-19,32.0
+2005-01-01,Sarawak,15-19,31.0
+2006-01-01,Sarawak,15-19,29.0
+2007-01-01,Sarawak,15-19,30.0
+2008-01-01,Sarawak,15-19,31.0
+2009-01-01,Sarawak,15-19,33.0
+2010-01-01,Sarawak,15-19,32.0
+2011-01-01,Sarawak,15-19,32.0
+2012-01-01,Sarawak,15-19,32.0
+2013-01-01,Sarawak,15-19,30.0
+2014-01-01,Sarawak,15-19,30.0
+2015-01-01,Sarawak,15-19,27.0
+2016-01-01,Sarawak,15-19,21.0
+2017-01-01,Sarawak,15-19,18.0
+2018-01-01,Sarawak,15-19,16.65
+2019-01-01,Sarawak,15-19,16.08
+2020-01-01,Sarawak,15-19,14.24
+2021-01-01,Sarawak,15-19,14.18
+2022-01-01,Sarawak,15-19,13.0
+2023-01-01,Sarawak,15-19,13.0
+2001-01-01,Selangor,15-19,8.0
+2002-01-01,Selangor,15-19,8.0
+2003-01-01,Selangor,15-19,8.0
+2004-01-01,Selangor,15-19,8.0
+2005-01-01,Selangor,15-19,7.0
+2006-01-01,Selangor,15-19,7.0
+2007-01-01,Selangor,15-19,7.0
+2008-01-01,Selangor,15-19,8.0
+2009-01-01,Selangor,15-19,9.0
+2010-01-01,Selangor,15-19,9.0
+2011-01-01,Selangor,15-19,10.0
+2012-01-01,Selangor,15-19,10.0
+2013-01-01,Selangor,15-19,9.0
+2014-01-01,Selangor,15-19,9.0
+2015-01-01,Selangor,15-19,8.0
+2016-01-01,Selangor,15-19,7.0
+2017-01-01,Selangor,15-19,6.0
+2018-01-01,Selangor,15-19,6.02
+2019-01-01,Selangor,15-19,5.43
+2020-01-01,Selangor,15-19,5.19
+2021-01-01,Selangor,15-19,3.64
+2022-01-01,Selangor,15-19,3.0
+2023-01-01,Selangor,15-19,5.0
+2001-01-01,Terengganu,15-19,11.0
+2002-01-01,Terengganu,15-19,10.0
+2003-01-01,Terengganu,15-19,10.0
+2004-01-01,Terengganu,15-19,10.0
+2005-01-01,Terengganu,15-19,9.0
+2006-01-01,Terengganu,15-19,10.0
+2007-01-01,Terengganu,15-19,10.0
+2008-01-01,Terengganu,15-19,12.0
+2009-01-01,Terengganu,15-19,13.0
+2010-01-01,Terengganu,15-19,12.0
+2011-01-01,Terengganu,15-19,11.0
+2012-01-01,Terengganu,15-19,12.0
+2013-01-01,Terengganu,15-19,11.0
+2014-01-01,Terengganu,15-19,11.0
+2015-01-01,Terengganu,15-19,10.0
+2016-01-01,Terengganu,15-19,10.0
+2017-01-01,Terengganu,15-19,9.0
+2018-01-01,Terengganu,15-19,7.31
+2019-01-01,Terengganu,15-19,6.4
+2020-01-01,Terengganu,15-19,6.5
+2021-01-01,Terengganu,15-19,6.46
+2022-01-01,Terengganu,15-19,6.0
+2023-01-01,Terengganu,15-19,9.0
+2001-01-01,W.P. Kuala Lumpur,15-19,9.0
+2002-01-01,W.P. Kuala Lumpur,15-19,8.0
+2003-01-01,W.P. Kuala Lumpur,15-19,7.0
+2004-01-01,W.P. Kuala Lumpur,15-19,7.0
+2005-01-01,W.P. Kuala Lumpur,15-19,6.0
+2006-01-01,W.P. Kuala Lumpur,15-19,6.0
+2007-01-01,W.P. Kuala Lumpur,15-19,6.0
+2008-01-01,W.P. Kuala Lumpur,15-19,6.0
+2009-01-01,W.P. Kuala Lumpur,15-19,7.0
+2010-01-01,W.P. Kuala Lumpur,15-19,7.0
+2011-01-01,W.P. Kuala Lumpur,15-19,7.0
+2012-01-01,W.P. Kuala Lumpur,15-19,9.0
+2013-01-01,W.P. Kuala Lumpur,15-19,8.0
+2014-01-01,W.P. Kuala Lumpur,15-19,10.0
+2015-01-01,W.P. Kuala Lumpur,15-19,9.0
+2016-01-01,W.P. Kuala Lumpur,15-19,8.0
+2017-01-01,W.P. Kuala Lumpur,15-19,7.0
+2018-01-01,W.P. Kuala Lumpur,15-19,6.37
+2019-01-01,W.P. Kuala Lumpur,15-19,6.71
+2020-01-01,W.P. Kuala Lumpur,15-19,5.83
+2021-01-01,W.P. Kuala Lumpur,15-19,3.53
+2022-01-01,W.P. Kuala Lumpur,15-19,3.0
+2023-01-01,W.P. Kuala Lumpur,15-19,5.0
+2001-01-01,W.P. Labuan,15-19,24.0
+2002-01-01,W.P. Labuan,15-19,16.0
+2003-01-01,W.P. Labuan,15-19,18.0
+2004-01-01,W.P. Labuan,15-19,16.0
+2005-01-01,W.P. Labuan,15-19,14.0
+2006-01-01,W.P. Labuan,15-19,18.0
