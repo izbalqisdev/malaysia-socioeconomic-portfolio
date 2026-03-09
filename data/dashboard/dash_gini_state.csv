@@ -1,0 +1,274 @@
+Year,State,Gini
+1974,Johor,0.439
+1974,Kedah,0.523
+1974,Kelantan,0.612
+1974,Melaka,0.506
+1974,Negeri Sembilan,0.465
+1974,Pahang,0.445
+1974,Perak,0.452
+1974,Perlis,0.425
+1974,Pulau Pinang,0.597
+1974,Selangor,0.507
+1974,Terengganu,0.502
+1976,Johor,0.469
+1976,Kedah,0.497
+1976,Kelantan,0.505
+1976,Melaka,0.558
+1976,Negeri Sembilan,0.49
+1976,Pahang,0.384
+1976,Perak,0.525
+1976,Perlis,0.498
+1976,Pulau Pinang,0.608
+1976,Selangor,0.516
+1976,Terengganu,0.482
+1979,Johor,0.442
+1979,Kedah,0.468
+1979,Kelantan,0.438
+1979,Melaka,0.472
+1979,Negeri Sembilan,0.432
+1979,Pahang,0.478
+1979,Perak,0.447
+1979,Perlis,0.44
+1979,Pulau Pinang,0.492
+1979,Sabah,0.49
+1979,Sarawak,0.501
+1979,Selangor,0.505
+1979,Terengganu,0.458
+1984,Johor,0.404
+1984,Kedah,0.476
+1984,Kelantan,0.464
+1984,Melaka,0.438
+1984,Negeri Sembilan,0.422
+1984,Pahang,0.416
+1984,Perak,0.428
+1984,Perlis,0.459
+1984,Pulau Pinang,0.452
+1984,Sabah,0.491
+1984,Sarawak,0.498
+1984,Selangor,0.481
+1984,Terengganu,0.461
+1984,W.P. Kuala Lumpur,0.486
+1987,Johor,0.386
+1987,Kedah,0.434
+1987,Kelantan,0.414
+1987,Melaka,0.403
+1987,Negeri Sembilan,0.431
+1987,Pahang,0.372
+1987,Perak,0.41
+1987,Perlis,0.408
+1987,Pulau Pinang,0.422
+1987,Sabah,0.467
+1987,Sarawak,0.465
+1987,Selangor,0.462
+1987,Terengganu,0.478
+1987,W.P. Kuala Lumpur,0.465
+1989,Johor,0.381
+1989,Kedah,0.428
+1989,Kelantan,0.407
+1989,Melaka,0.396
+1989,Negeri Sembilan,0.366
+1989,Pahang,0.35
+1989,Perak,0.421
+1989,Perlis,0.377
+1989,Pulau Pinang,0.406
+1989,Sabah,0.459
+1989,Sarawak,0.441
+1989,Selangor,0.444
+1989,Terengganu,0.459
+1989,W.P. Kuala Lumpur,0.428
+1992,Johor,0.423
+1992,Kedah,0.433
+1992,Kelantan,0.451
+1992,Melaka,0.397
+1992,Negeri Sembilan,0.406
+1992,Pahang,0.369
+1992,Perak,0.399
+1992,Perlis,0.415
+1992,Pulau Pinang,0.412
+1992,Sabah,0.468
+1992,Sarawak,0.467
+1992,Selangor,0.446
+1992,Terengganu,0.448
+1992,W.P. Kuala Lumpur,0.443
+1995,Johor,0.399
+1995,Kedah,0.406
+1995,Kelantan,0.442
+1995,Melaka,0.399
+1995,Negeri Sembilan,0.384
+1995,Pahang,0.373
+1995,Perak,0.397
+1995,Perlis,0.379
+1995,Pulau Pinang,0.405
+1995,Sabah,0.448
+1995,Sarawak,0.44
+1995,Selangor,0.424
+1995,Terengganu,0.464
+1995,W.P. Kuala Lumpur,0.423
+1997,Johor,0.397
+1997,Kedah,0.429
+1997,Kelantan,0.442
+1997,Melaka,0.371
+1997,Negeri Sembilan,0.408
+1997,Pahang,0.359
+1997,Perak,0.381
+1997,Perlis,0.412
+1997,Pulau Pinang,0.398
+1997,Sabah,0.454
+1997,Sarawak,0.447
+1997,Selangor,0.409
+1997,Terengganu,0.466
+1997,W.P. Kuala Lumpur,0.417
+1999,Johor,0.386
+1999,Kedah,0.409
+1999,Kelantan,0.424
+1999,Melaka,0.399
+1999,Negeri Sembilan,0.392
+1999,Pahang,0.332
+1999,Perak,0.387
+1999,Perlis,0.394
+1999,Pulau Pinang,0.399
+1999,Sabah,0.448
+1999,Sarawak,0.407
+1999,Selangor,0.394
+1999,Terengganu,0.44
+1999,W.P. Kuala Lumpur,0.414
+2002,Johor,0.408
+2002,Kedah,0.426
+2002,Kelantan,0.444
+2002,Melaka,0.386
+2002,Negeri Sembilan,0.401
+2002,Pahang,0.404
+2002,Perak,0.417
+2002,Perlis,0.437
+2002,Pulau Pinang,0.435
+2002,Sabah,0.465
+2002,Sarawak,0.445
+2002,Selangor,0.423
+2002,Terengganu,0.424
+2002,W.P. Kuala Lumpur,0.448
+2004,Johor,0.395
+2004,Kedah,0.387
+2004,Kelantan,0.416
+2004,Melaka,0.352
+2004,Negeri Sembilan,0.38
+2004,Pahang,0.389
+2004,Perak,0.393
+2004,Perlis,0.423
+2004,Pulau Pinang,0.398
+2004,Sabah,0.477
+2004,Sarawak,0.44
+2004,Selangor,0.443
+2004,Terengganu,0.443
+2004,W.P. Kuala Lumpur,0.467
+2007,Johor,0.368
+2007,Kedah,0.392
+2007,Kelantan,0.405
+2007,Melaka,0.38
+2007,Negeri Sembilan,0.385
+2007,Pahang,0.38
+2007,Perak,0.399
+2007,Perlis,0.454
+2007,Pulau Pinang,0.411
+2007,Sabah,0.451
+2007,Sarawak,0.442
+2007,Selangor,0.418
+2007,Terengganu,0.399
+2007,W.P. Kuala Lumpur,0.446
+2007,W.P. Labuan,0.388
+2007,W.P. Putrajaya,0.362
+2009,Johor,0.393
+2009,Kedah,0.408
+2009,Kelantan,0.428
+2009,Melaka,0.411
+2009,Negeri Sembilan,0.372
+2009,Pahang,0.382
+2009,Perak,0.4
+2009,Perlis,0.434
+2009,Pulau Pinang,0.419
+2009,Sabah,0.454
+2009,Sarawak,0.448
+2009,Selangor,0.424
+2009,Terengganu,0.418
+2009,W.P. Kuala Lumpur,0.374
+2009,W.P. Labuan,0.387
+2009,W.P. Putrajaya,0.342
+2012,Johor,0.383
+2012,Kedah,0.391
+2012,Kelantan,0.41
+2012,Melaka,0.355
+2012,Negeri Sembilan,0.382
+2012,Pahang,0.354
+2012,Perak,0.417
+2012,Perlis,0.455
+2012,Pulau Pinang,0.37
+2012,Sabah,0.427
+2012,Sarawak,0.44
+2012,Selangor,0.396
+2012,Terengganu,0.426
+2012,W.P. Kuala Lumpur,0.442
+2012,W.P. Labuan,0.383
+2012,W.P. Putrajaya,0.305
+2014,Johor,0.324
+2014,Kedah,0.365
+2014,Kelantan,0.393
+2014,Melaka,0.316
+2014,Negeri Sembilan,0.361
+2014,Pahang,0.36
+2014,Perak,0.366
+2014,Perlis,0.346
+2014,Pulau Pinang,0.364
+2014,Sabah,0.387
+2014,Sarawak,0.391
+2014,Selangor,0.379
+2014,Terengganu,0.36
+2014,W.P. Kuala Lumpur,0.407
+2014,W.P. Labuan,0.385
+2014,W.P. Putrajaya,0.374
+2016,Johor,0.354
+2016,Kedah,0.393
+2016,Kelantan,0.389
+2016,Melaka,0.337
+2016,Negeri Sembilan,0.38
+2016,Pahang,0.324
+2016,Perak,0.362
+2016,Perlis,0.327
+2016,Pulau Pinang,0.356
+2016,Sabah,0.402
+2016,Sarawak,0.386
+2016,Selangor,0.372
+2016,Terengganu,0.328
+2016,W.P. Kuala Lumpur,0.378
+2016,W.P. Labuan,0.398
+2016,W.P. Putrajaya,0.369
+2019,Johor,0.366
+2019,Kedah,0.354
+2019,Kelantan,0.378
+2019,Melaka,0.383
+2019,Negeri Sembilan,0.391
+2019,Pahang,0.33
+2019,Perak,0.377
+2019,Perlis,0.334
+2019,Pulau Pinang,0.359
+2019,Sabah,0.397
+2019,Sarawak,0.387
+2019,Selangor,0.393
+2019,Terengganu,0.335
+2019,W.P. Kuala Lumpur,0.35
+2019,W.P. Labuan,0.333
+2019,W.P. Putrajaya,0.361
+2022,Johor,0.366
+2022,Kedah,0.359
+2022,Kelantan,0.385
+2022,Melaka,0.37
+2022,Negeri Sembilan,0.369
+2022,Pahang,0.308
+2022,Perak,0.368
+2022,Perlis,0.336
+2022,Pulau Pinang,0.371
+2022,Sabah,0.395
+2022,Sarawak,0.382
+2022,Selangor,0.361
+2022,Terengganu,0.326
+2022,W.P. Kuala Lumpur,0.38
+2022,W.P. Labuan,0.3
+2022,W.P. Putrajaya,0.368
