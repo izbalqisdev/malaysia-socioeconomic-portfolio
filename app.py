@@ -970,53 +970,77 @@ elif "Inequality" in page:
     section_header("CHART 12", "BUBBLE CHART — INCOME × INEQUALITY × POPULATION")
     if hies_state is not None:
         hies_yr   = int(hies_state['year'].max())
-        hies_data = hies_state[hies_state['year']==hies_yr].copy()
+        hies_data = hies_state[hies_state['year'] == hies_yr].copy()
+
+        def get_total_pop_by_state(df):
+            df = df.copy()
+            str_cols = df.select_dtypes(include='object').columns
+            df[str_cols] = df[str_cols].apply(lambda c: c.str.strip().str.lower())
+            filters = {}
+            if 'sex' in df.columns:
+                both_vals = [v for v in df['sex'].unique() if 'both' in str(v)]
+                if both_vals: filters['sex'] = both_vals[0]
+            if 'age' in df.columns:
+                overall_vals = [v for v in df['age'].unique()
+                                if any(k in str(v) for k in ('overall', 'total', 'all'))]
+                if overall_vals: filters['age'] = overall_vals[0]
+            if 'ethnicity' in df.columns:
+                overall_eth = [v for v in df['ethnicity'].unique()
+                            if any(k in str(v) for k in ('overall', 'total', 'all'))]
+                if overall_eth: filters['ethnicity'] = overall_eth[0]
+            mask = pd.Series(True, index=df.index)
+            for col, val in filters.items():
+                mask &= (df[col] == val)
+            result = df[mask].copy()
+            if len(result) == 0:
+                result = df.groupby(['state', 'year'])['population'].sum().reset_index()
+            return result, filters
 
         bubble_size = 'income_median'
         size_label  = 'Median Income (RM/month)'
 
         if pop_state is not None:
-            pop_st = pop_state[(pop_state['sex']=='both')&(pop_state['ethnicity']=='overall')&(pop_state['age']=='overall')].copy()
-            if len(pop_st) == 0:
-                pop_st = pop_state[(pop_state['sex']=='both')&(pop_state['age']=='overall')].copy()
-            if len(pop_st) > 0:
+            pop_st, _ = get_total_pop_by_state(pop_state)
+            if len(pop_st) > 0 and pop_st['year'].notna().any():
                 pop_yr       = int(pop_st['year'].max())
-                pop_by_state = pop_st[pop_st['year']==pop_yr][['state','population']].copy()
-                hies_data    = pd.merge(hies_data, pop_by_state, on='state', how='left')
+                pop_by_state = pop_st[pop_st['year'] == pop_yr][['state', 'population']].copy()
+                pop_by_state['state'] = pop_by_state['state'].str.title()
+                hies_data['state']    = hies_data['state'].str.strip()
+                hies_data = pd.merge(hies_data, pop_by_state, on='state', how='left')
                 if hies_data['population'].notna().sum() >= 3:
                     bubble_size = 'population'
                     size_label  = 'Population (thousands)'
 
-        if 'expenditure_mean' in hies_data.columns and bubble_size == 'income_median':
+        if bubble_size == 'income_median' and 'expenditure_mean' in hies_data.columns:
             if hies_data['expenditure_mean'].notna().sum() >= 3:
                 bubble_size = 'expenditure_mean'
                 size_label  = 'Mean Expenditure (RM/month)'
 
-        bubble = hies_data.dropna(subset=['income_median','gini']).copy()
+        bubble = hies_data.dropna(subset=['income_median', 'gini']).copy()
         if bubble_size != 'income_median':
             bubble = bubble.dropna(subset=[bubble_size])
 
         fig12 = px.scatter(
             bubble, x='income_median', y='gini',
             size=bubble_size, color='state',
-            hover_name='state', text='state', size_max=68,
+            hover_name='state', size_max=68,
             labels={
-                'income_median':'Median Household Income (RM/month)',
-                'gini':'Gini Coefficient (↑ = More Unequal)',
-                bubble_size: size_label
+                'income_median' : 'Median Household Income (RM/month)',
+                'gini'          : 'Gini Coefficient (↑ = More Unequal)',
+                bubble_size     : size_label
             },
             template='plotly_dark',
         )
         fig12.update_traces(
+            text=bubble['state'].tolist(),  
             textposition='top center',
-            textfont=dict(size=9, family='Space Mono',
-                          color='#ECE8E1'),
-            marker=dict(opacity=0.80, line=dict(width=1.5,
-                        color='rgba(255,255,255,0.2)'))
+            textfont=dict(size=9, family='Space Mono', color='#ECE8E1'),
+            marker=dict(opacity=0.80, line=dict(width=1.5, color='rgba(255,255,255,0.2)'))
         )
         apply_plt(fig12, height=580, title=f'Income vs Inequality by State ({hies_yr}) — X=Income | Y=Gini | Size={size_label}')
         fig12.update_layout(xaxis=dict(tickprefix='RM ', tickformat=','), showlegend=False)
         st.plotly_chart(fig12, use_container_width=True)
+
         richest  = bubble.loc[bubble['income_median'].idxmax()]
         most_une = bubble.loc[bubble['gini'].idxmax()]
         insight_box(f"Highest income: **{richest['state']}** (RM {richest['income_median']:,.0f}) | Most unequal: **{most_une['state']}** (Gini = {most_une['gini']:.3f}). High income ≠ low inequality.")
